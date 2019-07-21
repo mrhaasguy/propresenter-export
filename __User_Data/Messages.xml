@@ -1,0 +1,14 @@
+
+<array>
+    <RVMessage title="Message" uuid="BCDDAC33-EF86-4670-930B-F499985577C9" timeToRemove="0" visibleToNetwork="true">
+        <array rvXMLIvarName="components">
+            <NSString><![CDATA[${Message}]]></NSString>
+        </array>
+    </RVMessage>
+    <RVMessage title="Countdown" uuid="30790BF3-52AB-44B0-A8EA-BC0CDECD02EC" timeToRemove="0" visibleToNetwork="false">
+        <array rvXMLIvarName="components">
+            <NSString><![CDATA[Session will begin in: ]]></NSString>
+            <NSString><![CDATA[${Countdown 1: H:MM:SS}]]></NSString>
+        </array>
+    </RVMessage>
+</array>

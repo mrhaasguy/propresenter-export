@@ -1,19 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<RVPlaylistDocument versionNumber="600" os="1" buildNumber="6016">
-  <RVPlaylistNode displayName="root" UUID="9BCEE42F-9D89-4F7E-8D32-27F14AA3223F" smartDirectoryURL="" modifiedDate="2018-10-01T22:11:17+00:00" type="0" isExpanded="0" hotFolderType="2" rvXMLIvarName="rootNode">
-    <array rvXMLIvarName="children">
-      <RVPlaylistNode displayName="Default" UUID="88e2f7ca-f90c-4193-87af-36968572db87" smartDirectoryURL="" modifiedDate="2019-03-17T11:24:38+00:00" type="3" isExpanded="true" hotFolderType="2">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<RVPlaylistDocument versionNumber="600" os="2" buildNumber="16245">
+    <RVPlaylistNode displayName="root" UUID="28E632BF-9655-4363-8BF7-420B102AC5A5" smartDirectoryURL="" modifiedDate="2019-07-01T18:41:55-04:00" type="0" isExpanded="false" hotFolderType="2" rvXMLIvarName="rootNode">
         <array rvXMLIvarName="children">
-          <RVAudioCue UUID="F4191CB3-CCC4-4B06-87AA-66D227EDADC9" displayName="amber alert.wav" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="1" alignment="4" dateAdded="">
-            <RVAudioElement rvXMLIvarName="element" source="C%3A%5CUsers%5CRedeemerA2%5CDocuments%5Camber%20alert.wav" volume="1" playRate="1" loopBehavior="0" audioType="1" inPoint="0" outPoint="4799" displayName="amber alert.wav">
-              <array rvXMLIvarName="effects" />
-            </RVAudioElement>
-          </RVAudioCue>
+            <RVPlaylistNode displayName="Default" UUID="6CEDB681-D934-4CE3-A87E-C62F9BE33CE0" smartDirectoryURL="" modifiedDate="2019-07-04T16:05:17-04:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVAudioCue UUID="F4191CB3-CCC4-4B06-87AA-66D227EDADC9" displayName="amber alert.wav" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000">
+                        <RVAudioElement source="C%3A%5CUsers%5CRedeemerA2%5CDocuments%5Camber%20alert.wav" volume="1.000000" playRate="1.000000" loopBehavior="0" audioType="1" inPoint="0.000000" outPoint="4799.000000" displayName="amber alert.wav" artist="" rvXMLIvarName="element"/>
+                    </RVAudioCue>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
         </array>
-        <array rvXMLIvarName="events" />
-      </RVPlaylistNode>
-    </array>
-    <array rvXMLIvarName="events" />
-  </RVPlaylistNode>
-  <array rvXMLIvarName="deletions" />
+        <array rvXMLIvarName="events"/>
+    </RVPlaylistNode>
+    <array rvXMLIvarName="deletions"/>
+    <array rvXMLIvarName="tags"/>
 </RVPlaylistDocument>
