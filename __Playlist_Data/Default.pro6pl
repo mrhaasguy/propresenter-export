@@ -6,7 +6,7 @@
                 <array rvXMLIvarName="children"/>
                 <array rvXMLIvarName="events"/>
             </RVPlaylistNode>
-            <RVPlaylistNode displayName="2018-11-08" UUID="57edd913-5057-42a8-b03f-fec563443e3e" smartDirectoryURL="" modifiedDate="2019-07-21T08:52:25-04:00" type="3" isExpanded="true" hotFolderType="2">
+            <RVPlaylistNode displayName="2018-11-08" UUID="57edd913-5057-42a8-b03f-fec563443e3e" smartDirectoryURL="" modifiedDate="2018-11-10T19:53:47-05:00" type="3" isExpanded="true" hotFolderType="2">
                 <array rvXMLIvarName="children">
                     <RVDocumentCue UUID="ED9A510B-CCF5-4B01-A99A-6678FA76DB03" displayName="Announcements.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Announcements.pro6" selectedArrangementID="00000000-0000-0000-0000-000000000000"/>
                     <RVDocumentCue UUID="FD84D0AE-7249-496B-9BE1-37B023A53C17" displayName="Apostles Creed.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Apostles Creed.pro6" selectedArrangementID="00000000-0000-0000-0000-000000000000"/>
@@ -18,8 +18,6 @@
                     <RVDocumentCue UUID="A5F87B44-C7A2-44B2-8535-B80F9B533451" displayName="Bound For Glory.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Bound For Glory.pro6" selectedArrangementID="EF0F5E50-7EED-409E-B6B2-1D1128E91C31"/>
                     <RVDocumentCue UUID="6AC0A951-EFC3-415E-B9EF-211B61B3CEF6" displayName="The Lords Supper.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/The Lords Supper.pro6" selectedArrangementID="00000000-0000-0000-0000-000000000000"/>
                     <RVDocumentCue UUID="75A03954-88EE-4CC9-A14A-2A1C8C6DEB66" displayName="How Deep the Father's Love for Us.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/How Deep the Father's Love for Us.pro6" selectedArrangementID="00000000-0000-0000-0000-000000000000"/>
-                    <RVDocumentCue UUID="CB9EF4AF-AB58-4BF1-9F8F-E0225C812A3E" displayName="Verses - Call to Worship.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="C:\Users\RedeemerA2\Documents\ProPresenter6\Verses - Call to Worship.pro6" selectedArrangementID="00000000-0000-0000-0000-000000000000"/>
-                    <RVDocumentCue UUID="28D7150B-8FFF-45DE-BDEF-AA539A9D1ED3" displayName="Verses - Scripture Reading.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="C:\Users\RedeemerA2\Documents\ProPresenter6\Verses - Scripture Reading.pro6" selectedArrangementID="00000000-0000-0000-0000-000000000000"/>
                 </array>
                 <array rvXMLIvarName="events"/>
             </RVPlaylistNode>
@@ -824,7 +822,7 @@
                 </array>
                 <array rvXMLIvarName="events"/>
             </RVPlaylistNode>
-            <RVPlaylistNode displayName="2019-06-23" UUID="21c16060-067b-4d73-ae3d-dd3f65a9e919" smartDirectoryURL="" modifiedDate="2019-07-21T08:52:25-04:00" type="3" isExpanded="true" hotFolderType="2">
+            <RVPlaylistNode displayName="2019-06-23" UUID="21c16060-067b-4d73-ae3d-dd3f65a9e919" smartDirectoryURL="" modifiedDate="2019-07-10T07:10:28-04:00" type="3" isExpanded="true" hotFolderType="2">
                 <array rvXMLIvarName="children">
                     <RVDocumentCue UUID="8414E08E-CA8F-4F36-91EB-6AE2C8E22D5B" displayName="Announcements.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Announcements.pro6" selectedArrangementID="00000000-0000-0000-0000-000000000000"/>
                     <RVDocumentCue UUID="8770AB48-0797-467C-8351-52F713E0E6B6" displayName="White as snow.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/White as snow.pro6" selectedArrangementID="29E52C1D-A498-45BC-BB26-0EF2C21634C3"/>
@@ -836,9 +834,6 @@
                     <RVDocumentCue UUID="4E899398-CE32-4C40-87AA-49474F8AB759" displayName="singing in the victory.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/singing in the victory.pro6" selectedArrangementID="AF7F350B-FCAC-487A-B841-1353A5F196B7"/>
                     <RVDocumentCue UUID="024EDB1F-E206-497E-8AF1-F41461B2D762" displayName="Titus 2_11-14" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Titus 2_11-14.pro6" selectedArrangementID=""/>
                     <RVDocumentCue UUID="677F3515-9E81-4BC2-813B-BFF1560C32B2" displayName="All Glory Be To Christ.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/All Glory Be To Christ.pro6" selectedArrangementID="6595D10B-70B2-4FBA-B6DD-4F610E5EEB88"/>
-                    <RVDocumentCue UUID="EAE12849-713D-4862-85D4-7C2CE33457AF" displayName="Verses - Call to Worship.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="C:\Users\RedeemerA2\Documents\ProPresenter6\Verses - Call to Worship.pro6" selectedArrangementID="00000000-0000-0000-0000-000000000000"/>
-                    <RVDocumentCue UUID="99CEBE79-3E95-4B6F-87E8-42263BA78CCA" displayName="Verses - Scripture Reading.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="C:\Users\RedeemerA2\Documents\ProPresenter6\Verses - Scripture Reading.pro6" selectedArrangementID="00000000-0000-0000-0000-000000000000"/>
-                    <RVDocumentCue UUID="B869B449-F4E6-4C21-84F2-99F6B95995F4" displayName="Daniel 7 scary world and fixed throne.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="C:\Users\RedeemerA2\Documents\ProPresenter6\Daniel 7 scary world and fixed throne.pro6" selectedArrangementID="00000000-0000-0000-0000-000000000000"/>
                 </array>
                 <array rvXMLIvarName="events"/>
             </RVPlaylistNode>
@@ -853,7 +848,7 @@
                 </array>
                 <array rvXMLIvarName="events"/>
             </RVPlaylistNode>
-            <RVPlaylistNode displayName="2019-06-30" UUID="8a115196-21b2-4f10-8b68-5a74eed91240" smartDirectoryURL="" modifiedDate="2019-07-21T08:52:25-04:00" type="3" isExpanded="true" hotFolderType="2">
+            <RVPlaylistNode displayName="2019-06-30" UUID="8a115196-21b2-4f10-8b68-5a74eed91240" smartDirectoryURL="" modifiedDate="2019-06-30T16:09:48-04:00" type="3" isExpanded="true" hotFolderType="2">
                 <array rvXMLIvarName="children">
                     <RVDocumentCue UUID="4EE8BEE8-20FC-4645-A2CE-87C646653407" displayName="Announcements.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Announcements.pro6" selectedArrangementID="00000000-0000-0000-0000-000000000000"/>
                     <RVDocumentCue UUID="B8B3F139-9DAE-479A-9C2E-9F3F03A4EFD0" displayName="BLESS THE LORD (SON OF MAN) - prelude" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/BLESS THE LORD (SON OF MAN) - prelude.pro6" selectedArrangementID="8B322511-EB3C-4854-A26D-F6B53F8780FC"/>
@@ -864,10 +859,6 @@
                     <RVDocumentCue UUID="0C1AA79C-57FC-40D0-8A58-D52EA9A9A8C7" displayName="One thing Remains .pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/One thing Remains .pro6" selectedArrangementID="05B39F41-E286-46E9-855F-074084C51A56"/>
                     <RVDocumentCue UUID="1D64E030-AB94-45DF-8B74-91F837547330" displayName="Break every chain.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Break every chain.pro6" selectedArrangementID="03693332-DDB5-4E7F-8D7F-EFA32E7046E4"/>
                     <RVDocumentCue UUID="3C714766-945A-42B7-BB9C-30AEAE323465" displayName="The Lord is my Salvation.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/The Lord is my Salvation.pro6" selectedArrangementID="8DF75B2F-3C93-4EB4-AEC6-2E9A4795B9F8"/>
-                    <RVDocumentCue UUID="B8B3F139-9DAE-479A-9C2E-9F3F03A4EFD0" displayName="BLESS THE LORD (SON OF MAN).pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="C:\Users\RedeemerA2\Documents\ProPresenter6\BLESS THE LORD (SON OF MAN).pro6" selectedArrangementID="8B322511-EB3C-4854-A26D-F6B53F8780FC"/>
-                    <RVDocumentCue UUID="D4343CC7-AEB5-43A9-A5CA-6A6F9C7E9362" displayName="Verses - Call to Worship.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="C:\Users\RedeemerA2\Documents\ProPresenter6\Verses - Call to Worship.pro6" selectedArrangementID="00000000-0000-0000-0000-000000000000"/>
-                    <RVDocumentCue UUID="3B26630A-9A63-485E-B4F3-A3752777A613" displayName="Verses - Scripture Reading.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="C:\Users\RedeemerA2\Documents\ProPresenter6\Verses - Scripture Reading.pro6" selectedArrangementID="00000000-0000-0000-0000-000000000000"/>
-                    <RVDocumentCue UUID="B409FC3B-643B-4FB9-B340-585F171F0FBA" displayName="Verses sermon.pro6" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" filePath="C:\Users\RedeemerA2\Documents\ProPresenter6\Verses sermon.pro6" selectedArrangementID="00000000-0000-0000-0000-000000000000"/>
                 </array>
                 <array rvXMLIvarName="events"/>
             </RVPlaylistNode>
