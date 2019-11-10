@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<RVPlaylistDocument versionNumber="600" os="2" buildNumber="16245">
-    <RVPlaylistNode displayName="root" UUID="B34CBA7C-DF34-48EB-8033-16EEFD67CE26" smartDirectoryURL="" modifiedDate="2019-09-14T20:07:24-04:00" type="0" isExpanded="false" hotFolderType="2" rvXMLIvarName="rootNode">
+<RVPlaylistDocument versionNumber="600" os="2" buildNumber="100990994">
+    <RVPlaylistNode displayName="root" UUID="B34CBA7C-DF34-48EB-8033-16EEFD67CE26" smartDirectoryURL="" modifiedDate="2019-11-10T06:52:13-05:00" type="0" isExpanded="false" hotFolderType="2" rvXMLIvarName="rootNode">
         <array rvXMLIvarName="children">
             <RVPlaylistNode displayName="Default" UUID="68A8A98D-C199-4997-987B-18044FAEE4CA" smartDirectoryURL="" modifiedDate="2019-07-01T18:41:55-04:00" type="3" isExpanded="false" hotFolderType="2">
                 <array rvXMLIvarName="children"/>
@@ -1072,7 +1072,7 @@
             <RVPlaylistNode displayName="2019-09-15" UUID="CD280745-C082-4CBC-99BA-3302614EE00E" smartDirectoryURL="" modifiedDate="2019-09-15T08:25:57-04:00" type="3" isExpanded="false" hotFolderType="2">
                 <array rvXMLIvarName="children">
                     <RVDocumentCue UUID="E69F1481-501A-4C43-90D8-CA89A3155EFD" displayName="Announcements" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Announcements.pro6" selectedArrangementID=""/>
-                    <RVDocumentCue UUID="75F48738-D0E0-42C2-B1FB-093BF44C101D" displayName="Your love is enough" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Your love is enough.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="75F48738-D0E0-42C2-B1FB-093BF44C101D" displayName="Your love is enough" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Your love is enough.pro6" selectedArrangementID="59BB9CA1-9730-4774-B76F-FAC1AAB3F3B6"/>
                     <RVDocumentCue UUID="418A2ED0-127A-4965-BE92-5E146E000573" displayName="Verses - Call to Worship" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Verses - Call to Worship.pro6" selectedArrangementID=""/>
                     <RVDocumentCue UUID="E94D90FA-53B5-436E-B470-2456BAAB40EA" displayName="The King of Love My Shepherd is" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/The King of Love My Shepherd is.pro6" selectedArrangementID="B66DCDF5-CA48-4F81-887E-33F38ED4E07E"/>
                     <RVDocumentCue UUID="57AB05BA-5E55-4502-A746-EFDE6EAFACAE" displayName="Beautiful Lord" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Beautiful Lord.pro6" selectedArrangementID="97FCFA4D-C049-4C25-936B-671E8AFDF554"/>
@@ -1085,10 +1085,202 @@
                 </array>
                 <array rvXMLIvarName="events"/>
             </RVPlaylistNode>
+            <RVPlaylistNode displayName="2019-09-15pm" UUID="83EF6B02-5A99-4D48-8836-7B94183D293D" smartDirectoryURL="" modifiedDate="2019-09-15T16:50:29-04:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVDocumentCue UUID="BBC3268A-76F5-43F0-B40B-85151E280814" displayName="Holy Spirit, living breath of God" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Holy Spirit, living breath of God.pro6" selectedArrangementID=""/>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
+            <RVPlaylistNode displayName="2019-09-22" UUID="880E3482-B468-4C9E-8D84-5B153174B59E" smartDirectoryURL="" modifiedDate="2019-09-21T19:55:02-04:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVDocumentCue UUID="1CFCFBEE-A3F5-438C-BCB4-0E24C41F45AA" displayName="Announcements" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Announcements.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="37D8582C-DD78-4EE6-924D-5BCB1B93E7BC" displayName="His Mercy Is More" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/His Mercy Is More.pro6" selectedArrangementID="15ACA489-ED4D-45C7-8FBF-24EC264FC929"/>
+                    <RVDocumentCue UUID="08403656-30F0-4E24-8B30-1DFBEB20C2C8" displayName="Verses - Call to Worship" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Verses - Call to Worship.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="29CF5668-633D-40B4-98F0-C188344707F7" displayName="I Stand Amazed" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/I Stand Amazed.pro6" selectedArrangementID="83490023-58DC-4F33-95D8-1E09AA7F292B"/>
+                    <RVDocumentCue UUID="81DE3211-8271-4B1F-B750-6459FE80F835" displayName="Love Shines Brightly at Calvary" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Love Shines Brightly at Calvary.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="9EF25360-FEAF-4369-8BA5-790EE1334A66" displayName="The Wonderful Cross" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/The Wonderful Cross.pro6" selectedArrangementID="FB63B73C-8F77-413C-AF41-62853701D4F9"/>
+                    <RVDocumentCue UUID="227C15BC-5071-4D7A-B51C-99C5F0497390" displayName="Speak O'Lord" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Speak O'Lord.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="91E3B99E-F154-4AD2-97B4-BCE3B573E9B7" displayName="Verses - Bible Reading" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Verses - Bible Reading.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="FCF79F9C-016A-4429-AB73-CB178AC9C7EC" displayName="Look What God Has Done" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Look What God Has Done.pro6" selectedArrangementID="A0F8C839-5EB3-4746-891E-260577737357"/>
+                    <RVDocumentCue UUID="718341A5-D7D5-4260-ACC1-C254DBD59326" displayName="They’ll Know We Are Christians" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/They’ll Know We Are Christians.pro6" selectedArrangementID="24AED6D1-0D0C-4FE8-B93C-887840B7ADDB"/>
+                    <RVDocumentCue UUID="F2286679-D9E1-4FBE-9012-272FCDDC6B4B" displayName="more verses" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/more verses.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="19942C4C-A6AE-4EF6-8908-48501CFC05D2" displayName="O Great God " actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/O Great God .pro6" selectedArrangementID="BBF5279F-D5C1-4CBD-ADD0-A19A961D41D2"/>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
+            <RVPlaylistNode displayName="2019-09-22pm" UUID="7411CC93-6833-4EFB-98AE-4040D1B2D914" smartDirectoryURL="" modifiedDate="2019-09-22T16:57:42-04:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVDocumentCue UUID="79D28BED-BCD5-4D3E-8DE7-70831E339B5A" displayName="O Praise the Name" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/O Praise the Name.pro6" selectedArrangementID="9414ABA2-93DF-4B21-BBF5-910628DA8253"/>
+                    <RVDocumentCue UUID="4F61063E-DF63-4607-B632-A8FC5A7F5E02" displayName="You hold me now" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/You hold me now.pro6" selectedArrangementID="54AB302F-2613-41CF-BA31-ED96A514625E"/>
+                    <RVDocumentCue UUID="593690D8-446A-4CC3-A7ED-E75501F7BAB9" displayName="I will follow" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/I will follow.pro6" selectedArrangementID="5F494991-E8A0-41A3-92F4-B7B38DC415A1"/>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
             <RVPlaylistNode displayName="2019-09-08pm" UUID="5A3595E2-E1C2-43DD-9159-CE4222909393" smartDirectoryURL="" modifiedDate="2019-09-08T16:59:06-04:00" type="3" isExpanded="false" hotFolderType="2">
                 <array rvXMLIvarName="children">
                     <RVDocumentCue UUID="53054DB6-5BD7-4067-9B97-AFEB061EB20A" displayName="I Will Glory in My Redeemer" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/I Will Glory in My Redeemer.pro6" selectedArrangementID=""/>
                     <RVDocumentCue UUID="B6111B99-0F3B-4244-98B7-5530835816A7" displayName="LIving Hope" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/LIving Hope.pro6" selectedArrangementID="2A226DCF-668A-4988-8F18-5B7C0A669221"/>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
+            <RVPlaylistNode displayName="2019-09-27" UUID="B01BDF1D-3C7B-4F74-8970-8072091321FB" smartDirectoryURL="" modifiedDate="2019-09-26T21:15:47-04:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVDocumentCue UUID="F75C5874-0346-4D8F-97F3-98414AB425F5" displayName="Redeemer Ann Arbor Interpreting Scripture" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Redeemer Ann Arbor Interpreting Scripture.pro6" selectedArrangementID=""/>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
+            <RVPlaylistNode displayName="2019-09-29" UUID="53B4B007-DE89-4C01-8B21-CCDDC22421B6" smartDirectoryURL="" modifiedDate="2019-09-28T20:41:33-04:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVDocumentCue UUID="67B30B79-2AC4-4768-8CFF-A0715BF8F855" displayName="Announcements" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Announcements.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="9F05C118-AEB9-4EA7-A971-D3729F35EB2F" displayName="His Mercy Is More" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/His Mercy Is More.pro6" selectedArrangementID="15ACA489-ED4D-45C7-8FBF-24EC264FC929"/>
+                    <RVDocumentCue UUID="8757A712-9EE8-4C3F-BC6D-A271536BC6BF" displayName="Verses - Call to Worship" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Verses - Call to Worship.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="14CF83E2-B025-4338-8E49-644AB0454CFD" displayName="Glory be to God the Father" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Glory be to God the Father.pro6" selectedArrangementID="2B1D1A66-DD2E-43FB-BA9B-4A7830429590"/>
+                    <RVDocumentCue UUID="F0DD602D-D703-4120-A778-F1535DAE1212" displayName="Nothing but the blood" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Nothing but the blood.pro6" selectedArrangementID="451F6612-59CD-451C-BE4D-BDC45167BA7A"/>
+                    <RVDocumentCue UUID="6132DC69-B8DF-4718-A368-C28E2D48820A" displayName="congergational prayer " actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/congergational prayer .pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="5629001E-CE8E-40E5-84B9-B579E66621C3" displayName="Spirit of God" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Spirit of God.pro6" selectedArrangementID="EF80440A-A94E-4E06-A0CA-4CEF51A50E58"/>
+                    <RVDocumentCue UUID="F1BB874F-537A-4D58-809D-2829912BFEB3" displayName="Verses - Bible Reading" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Verses - Bible Reading.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="A92BA302-56D1-46B3-8A0C-4908034AA46E" displayName="This I Believe" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/This I Believe.pro6" selectedArrangementID="5C35B822-840F-4920-AC24-07FE25F143A4"/>
+                    <RVDocumentCue UUID="6A09A083-EAFB-45BC-9903-79B2DA5A3DB2" displayName="O my soul arise" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/O my soul arise.pro6" selectedArrangementID="87E1EED3-BBC9-4820-9442-08E4AC1415A5"/>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
+            <RVPlaylistNode displayName="2019-09-29pm" UUID="39359585-3D01-418B-A2B2-0141749E4452" smartDirectoryURL="" modifiedDate="2019-09-29T16:51:45-04:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVDocumentCue UUID="2D02D865-916F-4489-906A-C744B88498F5" displayName="Fairest Lord Jesus" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Fairest Lord Jesus.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="EA93FEA4-9261-41E2-939F-3B2C7F8697D8" displayName="The House Of God, Forever" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/The House Of God, Forever.pro6" selectedArrangementID="382119B1-81C3-4756-994A-E689D95D9262"/>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
+            <RVPlaylistNode displayName="2019-10-06" UUID="0E0E19BB-16A2-489B-976A-35FC59199F53" smartDirectoryURL="" modifiedDate="2019-10-06T11:43:54-04:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVDocumentCue UUID="BB2507DC-CF7C-4078-80C1-C88AE71623B2" displayName="Announcements" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Announcements.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="31F3ED5A-A892-4C69-B8FF-603B07E8D88F" displayName="Sing to Jesus" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Sing to Jesus.pro6" selectedArrangementID="CB4BC34B-AB85-4A49-A5FA-6AE83DCA1C3A"/>
+                    <RVDocumentCue UUID="D2C0536F-0631-4EA6-B907-B27D01861927" displayName="Ecuador 2020" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Ecuador 2020.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="D14F6D30-4C7A-420F-89BB-051CC322FA46" displayName="Verses - Call to Worship" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Verses - Call to Worship.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="73B50623-CBB7-4D1E-912B-E86BD672E12E" displayName="My worth is not in what I own" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/My worth is not in what I own.pro6" selectedArrangementID="882BA53C-0E36-4D0E-9D19-608AD1008635"/>
+                    <RVDocumentCue UUID="011D0329-8F83-4FAB-8C2C-A691C1DDCA3B" displayName="His Mercy Is More" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/His Mercy Is More.pro6" selectedArrangementID="15ACA489-ED4D-45C7-8FBF-24EC264FC929"/>
+                    <RVDocumentCue UUID="51EDBB85-6DFF-4BC3-97D2-33698202FA23" displayName="Congergational Prayer" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Congergational Prayer.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="D4744D02-2E3D-413A-BE21-A2074118B070" displayName="Come As You Are" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Come As You Are.pro6" selectedArrangementID="C134DD4E-49F3-43F6-A441-F90AB14D8FED"/>
+                    <RVDocumentCue UUID="D105753A-07DC-4E7A-BA23-F8D28FCC443B" displayName="Verses - Bible Reading" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Verses - Bible Reading.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="DF3EC1F3-E6F3-4D8A-95E6-00AFE32C4CB3" displayName="There is a Fountain" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/There is a Fountain.pro6" selectedArrangementID="6B654D01-EE4C-4ACD-AF61-2B634BE56313"/>
+                    <RVDocumentCue UUID="FCECE466-0E74-400F-A156-30CD56B7686E" displayName="Coming to Christ" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Coming to Christ.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="312C9320-3D55-44FA-B63D-D197C3AD81BA" displayName="The Lords Supper" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/The Lords Supper.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="A12DCDE4-DDAF-4D76-9A3F-C6403EE68DFA" displayName="Come Ye Sinners" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Come Ye Sinners.pro6" selectedArrangementID="71248ABF-C505-4D0F-A90F-C594B0B9231F"/>
+                    <RVDocumentCue UUID="3D308D34-C7D9-4C97-A0E0-14F63F224C46" displayName="Sing to Jesus" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Sing to Jesus.pro6" selectedArrangementID="CB4BC34B-AB85-4A49-A5FA-6AE83DCA1C3A"/>
+                    <RVDocumentCue UUID="2C4FBC64-AE65-4F91-B08E-62AE4CD2CA93" displayName="Jesus paid it all" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Jesus paid it all.pro6" selectedArrangementID="758A5CED-BF85-4219-AA77-7C5B4E306B35"/>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
+            <RVPlaylistNode displayName="2019-10-06pm" UUID="6ADA6A18-4373-4EB3-B13D-AD9757990F30" smartDirectoryURL="" modifiedDate="2019-10-06T16:53:49-04:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVDocumentCue UUID="A97C5B09-B5EE-4DFF-B1CE-07399F9CCCDE" displayName="Come Behold the Wondrous Mystery" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Come Behold the Wondrous Mystery.pro6" selectedArrangementID="8617A53A-6F67-4663-A485-FE0611B9DCC0"/>
+                    <RVDocumentCue UUID="87416C87-F321-4639-B9B8-901731C3F8AE" displayName="All Glory Be To Christ" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/All Glory Be To Christ.pro6" selectedArrangementID="6595D10B-70B2-4FBA-B6DD-4F610E5EEB88"/>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
+            <RVPlaylistNode displayName="2019-10-13" UUID="306626AF-7CD6-42F6-9615-0455F61703AF" smartDirectoryURL="" modifiedDate="2019-10-13T10:06:09-04:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVDocumentCue UUID="C95F41CD-727F-44A1-8268-890EC62898AD" displayName="Psalm 34" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Psalm 34.pro6" selectedArrangementID="D4B53977-CA65-43DC-9B9A-82AFD54576D9"/>
+                    <RVDocumentCue UUID="A92C69A9-716C-4618-9DA2-8626680E4637" displayName="Announcements" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Announcements.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="AA9614AE-87A1-433A-A72B-797A275B7038" displayName="Verses - Call to Worship" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Verses - Call to Worship.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="7E49F93F-3079-4D8E-8FA1-EC7AAF798154" displayName="His Mercy Is More" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/His Mercy Is More.pro6" selectedArrangementID="15ACA489-ED4D-45C7-8FBF-24EC264FC929"/>
+                    <RVDocumentCue UUID="C232AA44-7636-4D3D-9324-A4FDD53EE0F1" displayName="Amazing Grace - My chains are gone" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Amazing Grace - My chains are gone.pro6" selectedArrangementID="C14D970B-EC74-4CBF-94F3-BD09FAE19A61"/>
+                    <RVDocumentCue UUID="C4CD0528-F05C-406A-92E0-00D75C344FA4" displayName="CR" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/CR.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="D2C1BDD9-EA64-4E2B-86F8-B5A32C1D49CB" displayName="Man of Sorrows (hymn)" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Man of Sorrows (hymn).pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="5FC4D442-181E-4BB6-A0CE-B280F5308533" displayName="Come Thou Fount" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Come Thou Fount.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="980B3D9A-6E1D-4822-AD4E-80198AE547B9" displayName="Verses - Bible Reading" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Verses - Bible Reading.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="00AB3F6D-1B5F-487B-9838-598EA77EC9B9" displayName="The power of the cross" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/The power of the cross.pro6" selectedArrangementID="D0EAF7AC-B61B-482D-B781-5CE168ED63E9"/>
+                    <RVDocumentCue UUID="78C50B67-5293-4CD0-95F3-EF25D61A340B" displayName="A Real and Penetrating Freedom.  John 8" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/A Real and Penetrating Freedom.  John 8.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="76F8E35C-B137-4D40-9EF7-6F300ADED7D5" displayName="Rescuer" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Rescuer.pro6" selectedArrangementID="1FE57F9B-E0B7-4BD1-9EB7-9D0EBEB401C6"/>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
+            <RVPlaylistNode displayName="2019-10-13pm" UUID="B463EBE6-4DA6-49B5-A630-6DF3169DB456" smartDirectoryURL="" modifiedDate="2019-10-13T16:57:32-04:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVDocumentCue UUID="AFC3E699-3CCD-4933-8EF5-3699BA2594C5" displayName="Praise to the Lord, the Almighty" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Praise to the Lord, the Almighty.pro6" selectedArrangementID="222CFB1B-3384-405A-8F2C-61142CCE1036"/>
+                    <RVDocumentCue UUID="5B8BE36C-7A0E-4227-8597-C613BD699500" displayName="The Gospel Song" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/The Gospel Song.pro6" selectedArrangementID="93E0498A-B631-4FDB-966B-C3E34DF5F42E"/>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
+            <RVPlaylistNode displayName="2019-10-20" UUID="157808CF-82B8-4187-82A9-F8FB79EE8455" smartDirectoryURL="" modifiedDate="2019-10-19T19:18:38-04:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVDocumentCue UUID="00061C1D-E45B-423A-9DE9-B125EAFFFFEA" displayName="Announcements" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Announcements.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="C8906081-6DE4-46AF-9E73-34BD87C09CB3" displayName="Jesus lover of my soul" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Jesus lover of my soul.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="FD1A35F5-20D1-4FE9-843C-136FD96628B0" displayName="Verses - Call to Worship" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Verses - Call to Worship.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="96DFA310-86D5-4A35-A299-69AF6CB81CC8" displayName="This is Amazing Grace" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/This is Amazing Grace.pro6" selectedArrangementID="DA84F025-4EA5-4512-9000-6AA027D85372"/>
+                    <RVDocumentCue UUID="E4C104A0-B2C7-4768-BA0B-88A4C4A4244F" displayName="C prayer" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/C prayer.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="237A819D-029E-4E23-B512-F628D62B2518" displayName="The Gospel Song" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/The Gospel Song.pro6" selectedArrangementID="93E0498A-B631-4FDB-966B-C3E34DF5F42E"/>
+                    <RVDocumentCue UUID="202B9B19-B1DA-4792-8058-4DF78E8E0EEF" displayName="though you slay me" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/though you slay me.pro6" selectedArrangementID="7973F565-B92D-4804-AC8A-C23B518729D6"/>
+                    <RVDocumentCue UUID="EA57E44E-56AF-4CDF-9217-B494A05CF921" displayName="Verses - Bible Reading" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Verses - Bible Reading.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="E61DF7FD-A9D8-47FF-8F88-E8628D1D62D7" displayName="I have a shelter" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/I have a shelter.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="C6490EA3-76BD-4B24-AA6D-570F9ED461B5" displayName="Bound For Glory" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Bound For Glory.pro6" selectedArrangementID="EF0F5E50-7EED-409E-B6B2-1D1128E91C31"/>
+                    <RVDocumentCue UUID="F705F5DB-0086-4FAA-86E4-7DE047587CC6" displayName="God in Joseph's Story" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/God in Joseph's Story.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="A40A825D-6F75-4CEF-9B22-376F538ED4A9" displayName="Jesus is better" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Jesus is better.pro6" selectedArrangementID="239629D3-5FCC-476F-9489-76DFD7354548"/>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
+            <RVPlaylistNode displayName="2019-10-20pm" UUID="259FEE04-987F-4E7E-B368-F6781C769987" smartDirectoryURL="" modifiedDate="2019-10-20T16:57:38-04:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVDocumentCue UUID="365C2B38-F229-49DF-964B-0C87FE903660" displayName="Jesus lover of my soul" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Jesus lover of my soul.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="BE4342EB-C62F-404D-8C21-8D07ECF134CB" displayName="Be thou my vision" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Be thou my vision.pro6" selectedArrangementID=""/>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
+            <RVPlaylistNode displayName="2019-10-27" UUID="39FD1C78-165C-44CF-B0B9-70FAE430E6C7" smartDirectoryURL="" modifiedDate="2019-10-27T09:54:38-04:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVDocumentCue UUID="1280D945-5100-4FAA-90DD-B39DECC47819" displayName="Announcements" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Announcements.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="30879820-CD98-4CCC-8E1F-4EE30EA6D85F" displayName="only a holy God" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/only a holy God.pro6" selectedArrangementID="117E3520-008A-42A5-9AE4-A8C74840B8C9"/>
+                    <RVDocumentCue UUID="BEF3A645-CCD9-4279-ABE4-6812F5CCCA0C" displayName="Verses - Call to Worship" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Verses - Call to Worship.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="CC194A16-AA50-41B5-AE14-BCF15E936311" displayName="All creatures of our God and King" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/All creatures of our God and King.pro6" selectedArrangementID="D9F407A2-A57A-4546-8B51-4E8C129A9165"/>
+                    <RVDocumentCue UUID="D114686F-6835-460B-B719-D22D2288B9A6" displayName="Cornerstone" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Cornerstone.pro6" selectedArrangementID="F30B667F-9F8F-4E49-9FD7-4E13FA2117B7"/>
+                    <RVDocumentCue UUID="0487AFB4-0C64-4D87-96F4-FFACC50E7D3C" displayName="2019-10-27 responsive reading" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/2019-10-27 responsive reading.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="ACCDB138-5829-4CEE-AC7A-8A2AFD36E14F" displayName="only a holy God" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/only a holy God.pro6" selectedArrangementID="117E3520-008A-42A5-9AE4-A8C74840B8C9"/>
+                    <RVDocumentCue UUID="11F42D45-34E5-49FE-AF8A-19321E64A6F0" displayName="more verses" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/more verses.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="57051084-CE3D-4E98-96D1-8E3406364FA6" displayName="Come Thou Fount" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Come Thou Fount.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="F87DE9DC-E482-4449-8679-F972A86CF694" displayName="Revelation song" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Revelation song.pro6" selectedArrangementID="CC379B39-C368-4C24-992B-7F657FC4CA09"/>
+                    <RVDocumentCue UUID="B73EC37F-D20C-47CE-A23C-797C62829F4A" displayName="It is Well" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/It is Well.pro6" selectedArrangementID="93D163FB-3661-4580-980A-BCDFC85AAD19"/>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
+            <RVPlaylistNode displayName="2019-11-03" UUID="5ACCD1B3-32CD-44FD-8B6B-A81DE2DEBA24" smartDirectoryURL="" modifiedDate="2019-11-03T10:17:52-05:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVDocumentCue UUID="714315ED-3F8A-4A4C-BCCF-7271FD0C6DA9" displayName="Announcements" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Announcements.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="61A1A95E-711F-4FE4-9161-3B3F66A38807" displayName="God with us" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/God with us.pro6" selectedArrangementID="1B50922A-C3DB-4F52-828B-AE2887ED1BB1"/>
+                    <RVDocumentCue UUID="DFA5436A-A1C8-4368-B7EF-EDE300A9F36E" displayName="Verses - Call to Worship" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Verses - Call to Worship.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="FB91385C-9F96-452D-9F8F-2BAE0C2EAD92" displayName="Psalm 34" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Psalm 34.pro6" selectedArrangementID="D4B53977-CA65-43DC-9B9A-82AFD54576D9"/>
+                    <RVDocumentCue UUID="5D540E37-AF67-4F28-A1E3-88ECCBF5BCF9" displayName="Beautiful" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Beautiful.pro6" selectedArrangementID="2EDD5724-452B-42A3-AD87-72F5B7BA35E8"/>
+                    <RVDocumentCue UUID="C13AC888-F566-4926-BED0-6A35A87F22BF" displayName="Confession of Faith-Heidelberg Catechism Q 1" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Confession of Faith-Heidelberg Catechism Q 1.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="9DD95141-F1E1-4126-8B5E-8810CE9B7E3D" displayName="My Jesus, I Love Thee" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/My Jesus, I Love Thee.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="42F58882-6C8B-4513-A5D2-C2AEDEDE190F" displayName="Verses - Bible Reading" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Verses - Bible Reading.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="F08373C6-525B-43AC-BB04-B01551B5D957" displayName="LIving Hope" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/LIving Hope.pro6" selectedArrangementID="2A226DCF-668A-4988-8F18-5B7C0A669221"/>
+                    <RVDocumentCue UUID="766FCC22-78BE-42AB-BFC5-1635A4CB087B" displayName="God’s Plan and Certain Hope Daniel 9.20-27" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/God’s Plan and Certain Hope Daniel 9.20-27.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="765902C6-967B-4090-990F-71C045DE0998" displayName="The Lords Supper" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/The Lords Supper.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="AEDD7076-A5BB-4A7D-BECB-11A2E2632CA3" displayName="Psalm 130" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Psalm 130.pro6" selectedArrangementID="8E76E50F-A134-45D1-B56E-213991AB6ED0"/>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
+            <RVPlaylistNode displayName="2019-11-03pm" UUID="563A1941-329C-4E2B-AE20-08FA5136542A" smartDirectoryURL="" modifiedDate="2019-11-03T16:45:28-05:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVDocumentCue UUID="085C1CEB-4A4B-4BBE-85DD-D0ACA3DA1D44" displayName="Man of Sorrows" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Man of Sorrows.pro6" selectedArrangementID="8B297454-F2F0-45D1-B220-AB54742D30BD"/>
+                    <RVDocumentCue UUID="5D61B13E-5F74-422A-B096-7FA62DAFAF41" displayName="His Mercy Is More" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/His Mercy Is More.pro6" selectedArrangementID="15ACA489-ED4D-45C7-8FBF-24EC264FC929"/>
+                    <RVDocumentCue UUID="C24771A4-43ED-4C04-85ED-F7C0C6CDD6AB" displayName="Slow me Down" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Slow me Down.pro6" selectedArrangementID="98C0A277-1E86-4778-9333-C7058459B2AB"/>
+                    <RVDocumentCue UUID="2807F888-E6D0-4B28-978F-EA7FAA393709" displayName="I Surrender All" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/I Surrender All.pro6" selectedArrangementID="B9883C98-EC3B-439E-9479-F0C93A8D4752"/>
+                    <RVDocumentCue UUID="2E7E317D-2A0A-47ED-8CEB-B6FFEA333380" displayName="All Glory Be To Christ" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/All Glory Be To Christ.pro6" selectedArrangementID="6595D10B-70B2-4FBA-B6DD-4F610E5EEB88"/>
+                </array>
+                <array rvXMLIvarName="events"/>
+            </RVPlaylistNode>
+            <RVPlaylistNode displayName="2019-11-10" UUID="F5D31C2B-7BDD-4971-AF11-3435269AB205" smartDirectoryURL="" modifiedDate="2019-11-10T08:28:07-05:00" type="3" isExpanded="false" hotFolderType="2">
+                <array rvXMLIvarName="children">
+                    <RVDocumentCue UUID="D687D038-99B3-44D8-93AE-EB25B3BE1861" displayName="Announcements" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Announcements.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="E8FCE617-8552-4BE2-B137-008BBB3E4457" displayName="God with us" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/God with us.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="376BEB7E-3A53-4605-9085-9712BC7F8F86" displayName="Verses - Call to Worship" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Verses - Call to Worship.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="38291A4F-1C89-4831-AEE6-5459B5988FF4" displayName="All People That on Earth Do Dwell" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/All People That on Earth Do Dwell.pro6" selectedArrangementID="2A3F4CC6-3B86-4A4D-B03D-B5A59E2CEE90"/>
+                    <RVDocumentCue UUID="708F6848-0891-4013-823C-7CDF11142824" displayName="Hallelujah For The Cross" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Hallelujah For The Cross.pro6" selectedArrangementID="DDE701B3-4949-4914-869C-DBADD6EBA7C8"/>
+                    <RVDocumentCue UUID="DFDAC90C-2313-4CBF-BA9F-6002FC23A75F" displayName="Verses - Bible Reading" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Verses - Bible Reading.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="35ABC381-57C2-4D55-ADB4-FB01E165C04C" displayName="The Lord is my Salvation" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/The Lord is my Salvation.pro6" selectedArrangementID="8DF75B2F-3C93-4EB4-AEC6-2E9A4795B9F8"/>
+                    <RVDocumentCue UUID="57FDA0D0-1E7B-4413-8B11-5639459D1496" displayName="The King of Love My Shepherd is" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/The King of Love My Shepherd is.pro6" selectedArrangementID="B66DCDF5-CA48-4F81-887E-33F38ED4E07E"/>
+                    <RVDocumentCue UUID="E6B99692-12B1-4898-9155-465C1E7482AC" displayName="Don't You Understand" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Don't You Understand.pro6" selectedArrangementID=""/>
+                    <RVDocumentCue UUID="B40F36C7-2EBA-4ED6-9FBF-D9410B46BF9D" displayName="Before the Throne of God above" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" filePath="~/Documents/ProPresenter6/Before the Throne of God above.pro6" selectedArrangementID="57C2BCF7-50DD-4ACA-9472-9B631D7C1751"/>
                 </array>
                 <array rvXMLIvarName="events"/>
             </RVPlaylistNode>
