@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <RVPlaylistDocument versionNumber="600" os="2" buildNumber="100991749">
-    <RVPlaylistNode displayName="root" UUID="0F4ACA8D-F423-475A-A168-416A0922BD46" smartDirectoryURL="" modifiedDate="2019-07-04T16:05:17-04:00" type="0" isExpanded="false" hotFolderType="2" rvXMLIvarName="rootNode">
+    <RVPlaylistNode displayName="root" UUID="0F4ACA8D-F423-475A-A168-416A0922BD46" smartDirectoryURL="" modifiedDate="2019-07-04T13:05:17-07:00" type="0" isExpanded="false" hotFolderType="2" rvXMLIvarName="rootNode">
         <array rvXMLIvarName="children">
-            <RVPlaylistNode displayName="Background" UUID="41B8B0CF-646F-463F-84C3-5145484DFE31" smartDirectoryURL="" modifiedDate="2019-12-15T08:44:50-05:00" type="6" isExpanded="false" hotFolderType="2">
+            <RVPlaylistNode displayName="Background" UUID="41B8B0CF-646F-463F-84C3-5145484DFE31" smartDirectoryURL="" modifiedDate="2020-09-25T08:59:36-07:00" type="6" isExpanded="false" hotFolderType="2">
                 <array rvXMLIvarName="children">
                     <RVMediaCue UUID="64910CC7-2C59-4737-879A-8B8A6D812DC4" displayName="song-of-preparation-background" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" behavior="1" nextCueUUID="" alignment="4" dateAdded="" tags="">
                         <RVImageElement displayName="ImageElement" UUID="8A0162D1-2FF2-4CFE-B375-9A14C74348BF" typeID="0" displayDelay="0.000000" locked="false" persistent="false" fromTemplate="false" opacity="1.000000" source="file:///Users/Shared/Renewed%20Vision%20Media/Images/song-of-preparation-background.png" bezelRadius="0.000000" rotation="0.000000" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="3" flippedHorizontally="false" flippedVertically="false" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="PNG image" rvXMLIvarName="element">
@@ -46,6 +46,26 @@
                     </RVMediaCue>
                     <RVMediaCue UUID="337903BA-1AA5-4CD2-ADAC-11F4E481FEDF" displayName="ImageSample3" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" behavior="1" nextCueUUID="" alignment="4" dateAdded="" tags="">
                         <RVImageElement displayName="ImageElement" UUID="EC93DFB4-7407-450C-8F35-39793A8FA72B" typeID="0" displayDelay="0.000000" locked="false" persistent="false" fromTemplate="false" opacity="1.000000" source="file:///Users/Shared/Renewed%20Vision%20Media/Images/ImageSample3.jpg" bezelRadius="0.000000" rotation="0.000000" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="3" flippedHorizontally="false" flippedVertically="false" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="JPEG image" rvXMLIvarName="element">
+                            <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+                            <shadow rvXMLIvarName="shadow">0.000000|0 0 0 0.3333333432674408|{4, -4}</shadow>
+                            <dictionary rvXMLIvarName="stroke">
+                                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.000000</NSNumber>
+                            </dictionary>
+                        </RVImageElement>
+                    </RVMediaCue>
+                    <RVMediaCue UUID="0396CE30-200A-46AB-8662-05422A149A7D" displayName="Black-Wallpaper-background-concrete-texture-abstract" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" behavior="1" nextCueUUID="" alignment="4" dateAdded="" tags="">
+                        <RVImageElement displayName="ImageElement" UUID="AEA34A48-60A2-4D73-8346-B3BBF5BCADB4" typeID="0" displayDelay="0.000000" locked="false" persistent="false" fromTemplate="false" opacity="1.000000" source="file:///Users/Shared/Renewed%20Vision%20Media/Images/Black-Wallpaper-background-concrete-texture-abstract.jpg" bezelRadius="0.000000" rotation="0.000000" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="3" flippedHorizontally="false" flippedVertically="false" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="JPEG image" rvXMLIvarName="element">
+                            <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+                            <shadow rvXMLIvarName="shadow">0.000000|0 0 0 0.3333333432674408|{4, -4}</shadow>
+                            <dictionary rvXMLIvarName="stroke">
+                                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.000000</NSNumber>
+                            </dictionary>
+                        </RVImageElement>
+                    </RVMediaCue>
+                    <RVMediaCue UUID="51B4A9EF-A169-4DA1-81AC-004C8148760E" displayName="Texture-Wallpaper-HD.-Black-Wallpaper-Background" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" behavior="1" nextCueUUID="" alignment="4" dateAdded="" tags="">
+                        <RVImageElement displayName="ImageElement" UUID="BBF5F0F7-32EB-454F-BE75-C1C8C4151F62" typeID="0" displayDelay="0.000000" locked="false" persistent="false" fromTemplate="false" opacity="1.000000" source="file:///Users/Shared/Renewed%20Vision%20Media/Images/Texture-Wallpaper-HD.-Black-Wallpaper-Background.jpg" bezelRadius="0.000000" rotation="0.000000" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="3" flippedHorizontally="false" flippedVertically="false" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="JPEG image" rvXMLIvarName="element">
                             <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
                             <shadow rvXMLIvarName="shadow">0.000000|0 0 0 0.3333333432674408|{4, -4}</shadow>
                             <dictionary rvXMLIvarName="stroke">
@@ -104,7 +124,7 @@
                             </dictionary>
                         </RVImageElement>
                     </RVMediaCue>
-                    <RVMediaCue UUID="590FAA5D-4287-4B1F-A3A5-85051F94ADAC" displayName="VideoSample.mov" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" behavior="1" nextCueUUID="51B4A9EF-A169-4DA1-81AC-004C8148760E" alignment="4" dateAdded="" tags="">
+                    <RVMediaCue UUID="590FAA5D-4287-4B1F-A3A5-85051F94ADAC" displayName="VideoSample.mov" actionType="0" enabled="true" timeStamp="0.000000" delayTime="0.000000" behavior="1" nextCueUUID="EA214EF4-DF85-4D12-A8A0-614A3693ED8F" alignment="4" dateAdded="" tags="">
                         <RVVideoElement displayName="VideoSample.mov" UUID="590faa5d-4287-4b1f-a3a5-85051f94adac" typeID="0" displayDelay="0.000000" locked="false" persistent="false" fromTemplate="false" opacity="1.000000" source="file:///Users/Shared/Renewed%20Vision%20Media/Video/VideoSample.mov" bezelRadius="0.000000" rotation="0.000000" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="3" flippedHorizontally="false" flippedVertically="false" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="QuickTime movie" audioVolume="1.000000" playRate="1.000000" frameRate="29.969980" playbackBehavior="1" inPoint="0" outPoint="11992" endPoint="11992" timeScale="600" naturalSize="{640, 480}" fieldType="0" rvXMLIvarName="element">
                             <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
                             <shadow rvXMLIvarName="shadow">0.000000|0 0 0 0|{0, 0}</shadow>
@@ -113,26 +133,6 @@
                                 <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.000000</NSNumber>
                             </dictionary>
                         </RVVideoElement>
-                    </RVMediaCue>
-                    <RVMediaCue UUID="51B4A9EF-A169-4DA1-81AC-004C8148760E" displayName="Texture-Wallpaper-HD.-Black-Wallpaper-Background" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" behavior="1" nextCueUUID="" alignment="4" dateAdded="" tags="">
-                        <RVImageElement displayName="ImageElement" UUID="BBF5F0F7-32EB-454F-BE75-C1C8C4151F62" typeID="0" displayDelay="0.000000" locked="false" persistent="false" fromTemplate="false" opacity="1.000000" source="file:///Users/Shared/Renewed%20Vision%20Media/Images/Texture-Wallpaper-HD.-Black-Wallpaper-Background.jpg" bezelRadius="0.000000" rotation="0.000000" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="3" flippedHorizontally="false" flippedVertically="false" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="JPEG image" rvXMLIvarName="element">
-                            <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
-                            <shadow rvXMLIvarName="shadow">0.000000|0 0 0 0.3333333432674408|{4, -4}</shadow>
-                            <dictionary rvXMLIvarName="stroke">
-                                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
-                                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.000000</NSNumber>
-                            </dictionary>
-                        </RVImageElement>
-                    </RVMediaCue>
-                    <RVMediaCue UUID="0396CE30-200A-46AB-8662-05422A149A7D" displayName="Black-Wallpaper-background-concrete-texture-abstract" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" behavior="1" nextCueUUID="" alignment="4" dateAdded="" tags="">
-                        <RVImageElement displayName="ImageElement" UUID="AEA34A48-60A2-4D73-8346-B3BBF5BCADB4" typeID="0" displayDelay="0.000000" locked="false" persistent="false" fromTemplate="false" opacity="1.000000" source="file:///Users/Shared/Renewed%20Vision%20Media/Images/Black-Wallpaper-background-concrete-texture-abstract.jpg" bezelRadius="0.000000" rotation="0.000000" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="3" flippedHorizontally="false" flippedVertically="false" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="JPEG image" rvXMLIvarName="element">
-                            <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
-                            <shadow rvXMLIvarName="shadow">0.000000|0 0 0 0.3333333432674408|{4, -4}</shadow>
-                            <dictionary rvXMLIvarName="stroke">
-                                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
-                                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.000000</NSNumber>
-                            </dictionary>
-                        </RVImageElement>
                     </RVMediaCue>
                     <RVMediaCue UUID="EA214EF4-DF85-4D12-A8A0-614A3693ED8F" displayName="Dark-Grunge-Metal-Texture-Wallpaper-Background" actionType="0" enabled="false" timeStamp="0.000000" delayTime="0.000000" behavior="1" nextCueUUID="" alignment="4" dateAdded="" tags="">
                         <RVImageElement displayName="ImageElement" UUID="84BB1E42-3D6B-40B5-8F00-B9D279F2F211" typeID="0" displayDelay="0.000000" locked="false" persistent="false" fromTemplate="false" opacity="1.000000" source="file:///Users/Shared/Renewed%20Vision%20Media/Images/Dark-Grunge-Metal-Texture-Wallpaper-Background.jpg" bezelRadius="0.000000" rotation="0.000000" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="3" flippedHorizontally="false" flippedVertically="false" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="JPEG image" rvXMLIvarName="element">
@@ -157,11 +157,11 @@
                 </array>
                 <array rvXMLIvarName="events"/>
             </RVPlaylistNode>
-            <RVPlaylistNode displayName="Foreground" UUID="6E13FDA9-4E95-474C-9A61-77AE7813C98C" smartDirectoryURL="" modifiedDate="2019-07-01T18:41:55-04:00" type="7" isExpanded="false" hotFolderType="2">
+            <RVPlaylistNode displayName="Foreground" UUID="6E13FDA9-4E95-474C-9A61-77AE7813C98C" smartDirectoryURL="" modifiedDate="2019-07-01T15:41:55-07:00" type="7" isExpanded="false" hotFolderType="2">
                 <array rvXMLIvarName="children"/>
                 <array rvXMLIvarName="events"/>
             </RVPlaylistNode>
-            <RVPlaylistNode displayName="Purchased" UUID="4b05e18b-14c5-4c57-865b-d0ee75df6fc6" smartDirectoryURL="" modifiedDate="2019-03-17T16:45:17-04:00" type="5" isExpanded="false" hotFolderType="2">
+            <RVPlaylistNode displayName="Purchased" UUID="4b05e18b-14c5-4c57-865b-d0ee75df6fc6" smartDirectoryURL="" modifiedDate="2019-03-17T13:45:17-07:00" type="5" isExpanded="false" hotFolderType="2">
                 <array rvXMLIvarName="children"/>
                 <array rvXMLIvarName="events"/>
             </RVPlaylistNode>
